@@ -1,0 +1,19 @@
+Habilidades hasta ahora:
+
+Activas: 
+-Vengeance (Haures' Hatred): Algun tipo de ataque que sea muy destructivo, 
+	posiblemente un finisher.
+
+Soporte: 
+-Legion Call (Haures' Command): Llama uno o mas demonios dependiendo del nivel
+	y alineamiento.
+-Dragon call (Valak's Command): Hace summon a un dragon de dos cabezas.
+-Wings (Valak's Flight): Permite volar.
+
+
+Pasivas:
+-Time Travel (Haures' Insight): Se activa en areas donde se pueda viajar en el
+	tiempo.
+-Curse of Luck (Valak's Gift): Incrementa LCK, muestra areas secretas, pero 
+	mientras esta activa, cosas malas pasan.
+

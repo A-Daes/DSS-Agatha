@@ -1,0 +1,47 @@
+El gameplay seria muy parecido a los Metroidvania de GBA y NDS, seria un mapa 
+grande con varias areas, cada area con un jefe principal y alguno que otro jefe
+menor u opcional. 
+
+Seria tipo plataformero con elementos rpg: Podes elegir tu armadura, armas, etc..
+Tambien hay stats, que afectan que tanto dañó haces o recibis, que tanta magia o
+vida tenes... 
+
+Habrian tres tipos de ataque (creo): Normal, mágico y "finisher". El normal
+depende de que arma tenes puesta, por ahora supongo que espadas, hachas y lanzas
+de varios tamaños, arcos... 
+El Mágico lo obtenes de enemigos cuando los matas, al igual que los item drops, 
+habria un "skill drop" para todos o casi todos los tipos de enemigos. Para estos
+hay posibilidades infinitas, go wild.
+El finisher seria una combinacion del normal y el magico, gasta mucha mas magia
+que un ataque mágico normal, pero hace muchisimo mas daño y cubre mas rango. 
+No todas las combinaciones tendrian finishers, y habrian finishers genericos,
+las combinaciones que tienen finisher estarían marcadas por algun color distinto.
+
+
+Tambíen hay skills que no son de ataque, como doble salto, volar, super salto. 
+O de soporte, como hacer summon a alguna bestia.
+O skills pasivas, como aumentar stats, poder entrar a areas con veneno, poder 
+respirar bajo agua...
+
+Y la mas importante, viajar en el tiempo en las areas indicadas.
+
+
+Los level ups te dan a elegir entre tres tipos de skills: Demon, Human, Saint.
+Dependiendo de que skills se eligen, el siguiente level up te deja elegir unas
+pero no otras, y la historia, al igual que la personalidad de Gen,
+va cambiando conforme se alinea mas a un lado que al otro, afectando el final
+y los bosses que te toca ver. (Si vas por la ruta neutral, te toca matar a todos)
+
+Cada ruta tiene dos finales: el bueno y el malo. 
+El malo es el incompleto, digamos. No conseguiste todos los artefactos de Agatha
+y por lo tanto no lograste contener el poder del CORE al momento de llegar al 
+final. 
+El bueno es el que conseguis si coleccionas todos los artefactos de Agatha.
+Para conseguirlos, tenes que ir a cada una de las areas secretas (estas se 
+pueden encontrar mas facilmente despues de conseguir la habilidad secreta 
+"Valak's gift", que te permite encontrar tesoros y areas escondidas con un
+indicador.), regresar en el tiempo a la era de Agatha, y matar al mismo boss del 
+area, pero en su modo "antiguo" (que es mucho mas fuerte que la original). 
+Al tener los artefactos, logras contener bien el poder del CORE, y se revela
+el area secreta donde podes regresar en el tiempo a matar a Agatha, a 
+el Archlord, o a ambos, dependiendo de que ruta hayas tomado.

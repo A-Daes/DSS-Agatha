@@ -1,0 +1,4 @@
+-> Da;os y resistencias cambian dependiendo del lado
+-> Demon es mas phys-oriented, Saint es mas Magic-status-oriented
+-> Neutral es Hard mode?
+-> Areas tienen ayudas dependiendo del lado en el que esta Gen.
